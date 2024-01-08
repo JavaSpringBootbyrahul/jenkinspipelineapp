@@ -12,6 +12,7 @@
 	<artifactId>jenkinspipelineapp</artifactId>
 	<version>1.0</version>
 	<name>jenkinspipelineapp</name>
+	<packaging>war</packaging>
 	<description>Demo project for jenkinspipelineapp</description>
 	<properties>
 		<java.version>17</java.version>
